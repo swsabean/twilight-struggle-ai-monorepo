@@ -1,4 +1,4 @@
-# Setup Guide for Twilight Struggle AI Monorepo
+I'm# Setup Guide for Twilight Struggle AI Monorepo
 
 This document provides a step-by-step guide to setting up the Twilight Struggle AI system on your local machine.
 
@@ -49,5 +49,4 @@ This document provides a step-by-step guide to setting up the Twilight Struggle 
 
 ---
 
-For more detailed documentation or to contribute, refer to the main [README.md](../RE
-ADME.md).
+For more detailed documentation or to contribute, refer to the main [README.md](../README.md).
