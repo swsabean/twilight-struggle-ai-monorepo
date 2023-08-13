@@ -27,3 +27,6 @@ Twilight Struggle is a two-player board game that simulates the Cold War. This G
 
 1. **Prerequisites**: Ensure you have Docker installed.
 2. **Building the Container**:
+   ```
+   docker build -t game-engine .
+   ```
