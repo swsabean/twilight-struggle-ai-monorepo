@@ -35,7 +35,7 @@ For detailed information on each module, navigate to the respective directory an
    git clone https://github.com/swsabean/twilight-struggle-ai-monorepo.git
    cd twilight-struggle-ai-monorepo
 3. **Build and Run**:
-   '''bash
+   ```bash
    docker-compose up --build
 
 For detailed setup instructions, refer to [docs/setup.md](docs/setup.md).
