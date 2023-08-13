@@ -21,3 +21,7 @@ This document provides a step-by-step guide to setting up the Twilight Struggle 
 1. Open a terminal or command prompt.
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following commands:
+```
+git clone https://github.com/swsabean/twilight-struggle-ai-monorepo.git
+cd twilight-struggle-ai-monorepo
+```
