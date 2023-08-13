@@ -51,3 +51,13 @@ Twilight Struggle is a two-player board game that simulates the Cold War. This G
 
 1. Navigate to the `tests` directory.
 2. Run the test suite using:
+   [Commands to test module,e.g. pytest]
+
+
+## Contribution
+
+Contributions to the Game Engine module are welcome. Please refer to the main project's [contribution guidelines](../README.md#contribution).
+
+---
+
+For more details on the overall project or other modules, refer to the main [README.md](../README.md).
