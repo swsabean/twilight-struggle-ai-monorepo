@@ -34,3 +34,20 @@ Twilight Struggle is a two-player board game that simulates the Cold War. This G
    ```
    docker run -p 8080:8080 game-engine
    ```
+
+## API Endpoints
+
+- **`/initialize`**: Sets up a new game.
+- **`/move`**: Makes a move for a player.
+- **`/state`**: Retrieves the current game state.
+- [Additional endpoints as needed]
+
+## Development
+
+- **Environment**: [Any specific environment variables or configurations]
+- **Dependencies**: [List of key libraries or services the module depends on]
+
+## Testing
+
+1. Navigate to the `tests` directory.
+2. Run the test suite using:
