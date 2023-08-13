@@ -21,7 +21,33 @@ This document provides a step-by-step guide to setting up the Twilight Struggle 
 1. Open a terminal or command prompt.
 2. Navigate to the directory where you want to clone the repository.
 3. Run the following commands:
-```
-git clone https://github.com/swsabean/twilight-struggle-ai-monorepo.git
-cd twilight-struggle-ai-monorepo
-```
+   ```
+   git clone https://github.com/swsabean/twilight-struggle-ai-monorepo.git
+   cd twilight-struggle-ai-monorepo
+   ```
+
+## Build and Run the Containers
+
+1. In the root directory of the cloned repository, run:
+   ```
+   docker compose up --build
+   ```
+2. Wait for Docker to build the images and start the containers. Once done, the Twilight Struggle AI system should be up and running.
+
+## Testing the Setup
+
+1. [Placeholder for testing instructions, e.g., accessing a web interface, making API calls, etc.]
+
+## Troubleshooting
+
+- **Issue 1**: [Description and solution]
+- **Issue 2**: [Description and solution]
+
+## Next Steps
+
+1. [Placeholder for further instructions, e.g., training the AI, playing a game, etc.]
+
+---
+
+For more detailed documentation or to contribute, refer to the main [README.md](../RE
+ADME.md).
