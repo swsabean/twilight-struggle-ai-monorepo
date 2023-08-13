@@ -1,4 +1,4 @@
-I'm# Setup Guide for Twilight Struggle AI Monorepo
+# Setup Guide for Twilight Struggle AI Monorepo
 
 This document provides a step-by-step guide to setting up the Twilight Struggle AI system on your local machine.
 
