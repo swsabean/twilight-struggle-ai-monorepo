@@ -26,4 +26,36 @@ In the complex board game of Twilight Struggle, making optimal decisions is cruc
 
 1. **Prerequisites**: Ensure you have Docker installed.
 2. **Building the Container**:
-   
+   ```
+   docker build -t ai-decision-making .
+   ```
+3. **Running the Container**
+   ```
+   docker run -p 8081:8081 ai-decision-making
+   ```
+
+
+## Algorithms and Techniques
+
+- **Monte Carlo Tree Search (MCTS)**: A heuristic search algorithm used for decision-making in the game.
+- **Neural Networks**: Trained models that assist in evaluating game states and predicting moves.
+- [Any other algorithms or techniques you plan to use]
+
+## Development
+
+- **Environment**: [Any specific environment variables or configurations]
+- **Dependencies**: [List of key libraries or services the module depends on]
+
+## Testing
+
+1. Navigate to the `tests` directory.
+2. Run the test suite using: [Testing command, e.g., pytest]
+
+
+## Contribution
+
+Contributions to the AI Decision-Making module are welcome. Please refer to the main project's [contribution guidelines](../README.md#contribution).
+
+---
+
+For more details on the overall project or other modules, refer to the main [README.md](../README.md).
